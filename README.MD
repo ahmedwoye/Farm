@@ -9,7 +9,7 @@
 
 # Tools & Technologies
 
-.*AZURE* Microsoft
-.*GIT*  GITHUB
-.*DOCKER*
-.*TERRAFORM*
+- *AZURE* Microsoft
+- *GIT*  GITHUB
+- *DOCKER*
+- *TERRAFORM*
