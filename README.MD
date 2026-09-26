@@ -13,3 +13,8 @@
 - *GIT*  GITHUB
 - *DOCKER*
 - *TERRAFORM*
+
+
+# Architectural Diagram
+
+![screenshot of app](WEBPROJECT.png)
